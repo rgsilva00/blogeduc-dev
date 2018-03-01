@@ -26,4 +26,4 @@ Route::get('progweb', 'DynamicPageController@getProgweb')->name('progweb');
 Route::get('roboeduc', 'DynamicPageController@getRoboeduc')->name('roboeduc');
 
 /* PainelAdmin */
-Route::get('paineladmin/painelsite', 'PainelAdminController@getPainelsite')->name('painelseite');
+Route::get('paineladmin/painelsite', 'PainelAdminController@getPainelsite')->name('painelsite');
