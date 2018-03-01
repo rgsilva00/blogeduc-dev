@@ -16,14 +16,14 @@ Auth::routes();
 Route::get('/', 'StaticPageController@getHome')->name('home');
 
 /* WebSite */
-Route::get('educacao', 'StaticPageController@getEducacao')->name('educacao');
-Route::get('informatica', 'StaticPageController@getInformatica')->name('informatica');
-Route::get('teceduc', 'StaticPageController@getTeceduc')->name('teceduc');
+Route::get('website/educacao', 'StaticPageController@getEducacao')->name('educacao');
+Route::get('website/informatica', 'StaticPageController@getInformatica')->name('informatica');
+Route::get('website/teceduc', 'StaticPageController@getTeceduc')->name('teceduc');
 
 /* WebBlog */
-Route::get('mei', 'DynamicPageController@getMei')->name('mei');
-Route::get('progweb', 'DynamicPageController@getProgweb')->name('progweb');
-Route::get('roboeduc', 'DynamicPageController@getRoboeduc')->name('roboeduc');
+Route::get('webblog/mei', 'DynamicPageController@getMei')->name('mei');
+Route::get('webblog/progweb', 'DynamicPageController@getProgweb')->name('progweb');
+Route::get('webblog/roboeduc', 'DynamicPageController@getRoboeduc')->name('roboeduc');
 
 /* PainelAdmin */
 Route::get('paineladmin/painelsite', 'PainelAdminController@getPainelsite')->name('painelsite');
