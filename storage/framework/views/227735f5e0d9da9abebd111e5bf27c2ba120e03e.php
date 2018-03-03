@@ -23,7 +23,7 @@
 		</b></b>
 		<p><strong>O que é CMS?</strong></p>
 		</b>
-		<p>
+		<p id="ident">
 			Os CMS´s (Content Management System – Sistema de Gerenciamento de Conteúdo) são, em grande parte, softwares livres, desenvolvido por programadores do mundo inteiro, onde o usuário pode editar e criar conteúdo para seus sites com grande facilidade. Acessado diretamente pelo navegador, possui uma linguagem visual prática e intuitiva.
 		</p>
 		<p>
@@ -39,16 +39,16 @@
 		<p>
 			<strong>O que é WordPress?</strong>
 		</p>
-		<p>
+		<p id="ident">
 			O WordPress é um <strong>Sistema de Gerenciamento de Conteúdo</strong> (CMS) sigla para “Content Management System” e <strong>desenvolvido na linguagem PHP com banco de dados MySQL</strong>.
 		</p>
-		<p>
+		<p id="ident">
 			Possui um painel de gerenciamento que permite a construção de um Blog ou Site sem ter que editar códigos, é hoje o CMS mais usado no mundo, talvez por este motivo seja o melhor de todos os CMS, tem uma comunidade maior de usuários e colaboradores o que resulta em mais recursos, atualizações e melhorias.
 		</p>
 		<p>
 			<strong>Uma plataforma completa</strong>
 		</p>
-		<p>
+		<p id="ident">
 			O WordPress é muito mais que um Software, é uma plataforma completa de Desenvolvimento Web e grandes empresas o utilizam como plataforma de seus sites como:
 		</p>
 		<ul>
@@ -63,13 +63,13 @@
 		<p>
 			<strong>WordPress é um site ou blog?</strong>
 		</p>
-		<p>
+		<p id="ident">
 			<strong>Inicialmente desenvolvido para criação de Blog</strong>, uma característica fundamental que esta embutida no WordPress até os dias atuais;
 		</p>
-		<p>
+		<p id="ident">
 			Ao longo dos anos e hoje é possível a criação de sites básicos até lojas virtuais sobre esta plataforma;
 		</p>
-		<p>
+		<p id="ident">
 			Todos os Sites feitos com o WordPress já possuem toda a estrutura de um <strong>Blog completo e profissional</strong>.
 		</p>
 		<p>
@@ -85,16 +85,16 @@
 		<p>
 			<strong>Diferença de WordPress.com e WordPress.org</strong>
 		</p>
-		<p>
+		<p id="ident">
 			WordPress.com é um site na mesma estrutura do Blogger do Google e com a possibilidade de você criar um site apenas escolhendo o modelo ou tema e fazendo as postagens ao estilo blog, tudo <strong>on-line</strong>.
 		</p>
-		<p>
+		<p id="ident">
 			WordPress.org é um site para <strong>fazer download</strong> do software WordPress que vai ser instalado no servidor web ou em alguns casos no computador do usuário, podendo assim fazer qualquer modificação no código fonte dando total liberdade ao desenvolvedor.
 		</p>
 		<p>
 			<strong>O projeto</strong>
 		</p>
-		<p>
+		<p id="ident">
 			Foi desenvolvido no CMS WordPress e desenvolvemos um blog educativo, para postagem de assuntos relevantes a educação e tecnologias aplicadas ao ensino. Sua hospedagem foi feita no hostinger.
 		</p>
 	</div>

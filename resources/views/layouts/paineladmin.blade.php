@@ -7,9 +7,7 @@
 		<div class="wrapper">
 			@include('partials.navhead')
 			@include('partials.leftsidebar')
-			<!-- #Content -->
 			@yield('content')
-			<!-- .Content -->
 			@include('partials.mainfooter')
 			@include('partials.controlsidebar')
 		</div>

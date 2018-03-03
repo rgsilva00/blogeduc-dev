@@ -28,9 +28,15 @@
 	background-color: #F6F6F1;
 }
 
-#col-left, #col-right
+#col-left,
+#col-right
 {
 	background-color: #F6F6E6;
+}
+
+#ident
+{
+	text-indent: 25px;
 }
 
 .footer-above
