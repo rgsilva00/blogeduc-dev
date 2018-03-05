@@ -4,9 +4,9 @@
     <!-- #Logo -->
     <a href="#" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>B</b>ED</span>
+      <span class="logo-mini"><img src="{{ asset('img/blogeduc.png') }}" class="img-circle" alt="Logo-BlogEduc"></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Blog</b>Educ</span>
+      <span class="logo-lg"><img src="{{ asset('img/blogeduc.png') }}" class="img-circle" alt="Logo-BlogEduc"><b>Blog</b>Educ</span>
     </a>
     <!-- .Logo -->
     <!-- Header Navbar: style can be found in header.less -->
